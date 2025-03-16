@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ish-that-a-wish
 - 👀 I’m interested in tennis, robotics, DECA, and writing
 - 🌱 I’m currently learning Java, HTML, CSS, JS, Svelte, and Swift
-- 📫 How to reach me @ferret2the4th on Discord
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak 4 languages fluently!
